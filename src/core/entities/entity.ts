@@ -1,5 +1,4 @@
-import { randomUUID } from "crypto"
-import { UniqueEntityId } from "./unique-entity-id"
+import { UniqueEntityId } from './unique-entity-id'
 
 // Essa classe vai ser estendida pelas outras entidades com o intuito de reduzir ainda mais o código, tornado mais limpo
 
